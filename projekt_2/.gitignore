@@ -1,0 +1,6 @@
+bin/
+data/bus/
+data/tram/
+data/.bus_extracted
+data/.tram_extracted
+*.o
